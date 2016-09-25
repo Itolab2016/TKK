@@ -21,7 +21,7 @@
 #include <termios.h>
 #include <time.h>
 
-#define DEV_NAME    "/dev/ttyUSB0"        // デバイスファイル名
+#define DEV_NAME    "/dev/ttyUSB0"        // デバイスファイル名　ここは環境に合わせて変える必要がある
 #define BAUD_RATE    B921600              // RS232C通信ボーレート
 #define BUFF_SIZE    4096                 // 適当
 
