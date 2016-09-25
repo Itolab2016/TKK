@@ -4,6 +4,9 @@
 
 
 // 金沢工業高等専門学校　機械工学科
+
 // 伊藤恒平
+
 // Kanazawa Technical College
+
 // Kouhei Ito
